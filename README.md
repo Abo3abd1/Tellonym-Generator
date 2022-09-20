@@ -3,6 +3,8 @@ Disclaimer, This project is for educational purposes only, And it will no be rel
 
 
 Tellonym.me Account Creator/Generator.
+## Easy, reliable, and lightweight Tellonym.me Account written in python full requests .
+
 
 Features :-
 - [x] Captcha Support.
