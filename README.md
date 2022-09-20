@@ -17,3 +17,4 @@ Features :-
 
 
 ### This is the first version of this tool, idk if imma do more features in future, AND ITS NOT FOR SALE OR WILL BE RELEASED, its just a showcase ;).
+my discord on my bio in my profile, send me a friend request if u have any questions.
