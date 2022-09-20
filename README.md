@@ -5,7 +5,7 @@
 ## Tellonym.me Account Creator/Generator.
 #### Easy, reliable, and lightweight Tellonym.me Account written in python full requests .
 
-![Alt Text](https://cdn.discordapp.com/attachments/929867910971785216/1021881453509881886/ezgif.com-gif-maker_1.gif)
+![Alt Text](https://cdn.discordapp.com/attachments/929867910971785216/1021881751972364309/ezgif.com-gif-maker_2.gif)
 
 Features :-
 - [x] Captcha Support.
