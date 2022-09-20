@@ -13,3 +13,6 @@ Features :-
 - [ ] Threading.
 - [x] Lightweight.
 - [x] Send Account credentials to discord webhook. 
+
+
+### This is the first version of this tool, idk if imma do more features in future, AND ITS NOT FOR SALE OR WILL BE RELEASED, its just a showcase ;).
